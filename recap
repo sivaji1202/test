@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello sivaji add somting"
+mkdir sivaji && touch siva{1..10}
