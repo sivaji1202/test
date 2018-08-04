@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def main():
      f= open("sivaji.txt","w+")
      #f=open("guru99.txt","a+")
